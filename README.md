@@ -1,4 +1,4 @@
-# Tiago Rangel de Sousa
+# This is not what you are looking for
 -----------
-Welcome.
-This is my personal website, and here you can find my contact, localization, working projects and lot's more!
+You probabily just want to go to my website, right? Well, Well, it's not here.  
+But you access it at https://tiagorangel.com/!
